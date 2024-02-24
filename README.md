@@ -15,4 +15,5 @@
 [![Opus](https://invidget.switchblade.xyz/McEyvETc)](https://discord.gg/McEyvETc)
 [![Socra](https://invidget.switchblade.xyz/PH6pkDD3)](https://discord.gg/PH6pkDD3)
 [![Singularity Lab](https://invidget.switchblade.xyz/jc4xtF58Ve)](https://discord.gg/jc4xtF58Ve)
+[![Janitor ai](https://invidget.switchblade.xyz/janitorai)](https://discord.gg/janitorai)
 [![Character ai](https://invidget.switchblade.xyz/characterai)](https://discord.gg/characterai)
