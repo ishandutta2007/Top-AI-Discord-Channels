@@ -2,6 +2,7 @@
 [![Firefly](https://invidget.switchblade.xyz/YJE3z8bK)](https://discord.gg/YJE3z8bK)
 [![Character ai](https://invidget.switchblade.xyz/characterai)](https://discord.gg/characterai)
 [![Playground](https://invidget.switchblade.xyz/63XZsH2Y)](https://discord.gg/63XZsH2Y)
+[![Fake chatGPT](https://invidget.switchblade.xyz/b4YaeTsa)](https://discord.gg/b4YaeTsa)
 [![Janitor ai](https://invidget.switchblade.xyz/janitorai)](https://discord.gg/janitorai)
 [![openai](https://invidget.switchblade.xyz/openai)](https://discord.gg/openai)
 [![HuggingFace](https://invidget.switchblade.xyz/hugging-face-879548962464493619)](https://discord.gg/hugging-face-879548962464493619)
