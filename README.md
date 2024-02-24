@@ -3,6 +3,7 @@
 [![Playground](https://invidget.switchblade.xyz/63XZsH2Y)](https://discord.gg/63XZsH2Y)
 [![HuggingFace](https://invidget.switchblade.xyz/hugging-face-879548962464493619)](https://discord.gg/hugging-face-879548962464493619)
 [![AutoGPT](https://invidget.switchblade.xyz/autogpt)](https://discord.gg/autogpt)
+[![FlowGPT](https://invidget.switchblade.xyz/flowgpt)](https://discord.gg/flowgpt)
 [![Poe](https://invidget.switchblade.xyz/8Jq45eBH)](https://discord.gg/8Jq45eBH)
 [![WebCHATGPT](https://invidget.switchblade.xyz/JKpfRTEZ)](https://discord.gg/JKpfRTEZ)
 [![Pi](https://invidget.switchblade.xyz/RUsRK82D)](https://discord.gg/RUsRK82D)
