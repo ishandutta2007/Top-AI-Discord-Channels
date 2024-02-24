@@ -1,7 +1,7 @@
 [![midjourney](https://invidget.switchblade.xyz/midjourney)](https://discord.gg/midjourney)
 [![Firefly](https://invidget.switchblade.xyz/YJE3z8bK)](https://discord.gg/YJE3z8bK)
+[![Playground](https://invidget.switchblade.xyz/63XZsH2Y)](https://discord.gg/63XZsH2Y)
 [![HuggingFace](https://invidget.switchblade.xyz/hugging-face-879548962464493619)](https://discord.gg/hugging-face-879548962464493619)
-[![Singularity Lab](https://invidget.switchblade.xyz/63XZsH2Y)](https://discord.gg/63XZsH2Y)
 [![AutoGPT](https://invidget.switchblade.xyz/autogpt)](https://discord.gg/autogpt)
 [![Poe](https://invidget.switchblade.xyz/8Jq45eBH)](https://discord.gg/8Jq45eBH)
 [![WebCHATGPT](https://invidget.switchblade.xyz/JKpfRTEZ)](https://discord.gg/JKpfRTEZ)
