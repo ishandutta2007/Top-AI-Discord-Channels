@@ -17,3 +17,4 @@
 [![Singularity Lab](https://invidget.switchblade.xyz/jc4xtF58Ve)](https://discord.gg/jc4xtF58Ve)
 [![Janitor ai](https://invidget.switchblade.xyz/janitorai)](https://discord.gg/janitorai)
 [![Character ai](https://invidget.switchblade.xyz/characterai)](https://discord.gg/characterai)
+[![Kajiwoto ai](https://invidget.switchblade.xyz/usBPVFg)](https://discord.gg/usBPVFg)
