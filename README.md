@@ -19,4 +19,5 @@
 [![Character ai](https://invidget.switchblade.xyz/characterai)](https://discord.gg/characterai)
 [![Kajiwoto ai](https://invidget.switchblade.xyz/usBPVFg)](https://discord.gg/usBPVFg)
 [![Harpy Chat ai](https://invidget.switchblade.xyz/EcNSKX4qMQ)](https://discord.gg/EcNSKX4qMQ)
+[![Replika ai](https://invidget.switchblade.xyz/MzV2Jr9uhD)](https://discord.gg/MzV2Jr9uhD)
 
