@@ -6,7 +6,7 @@
 [![Poe](https://invidget.switchblade.xyz/8Jq45eBH)](https://discord.gg/8Jq45eBH)
 [![WebCHATGPT](https://invidget.switchblade.xyz/JKpfRTEZ)](https://discord.gg/JKpfRTEZ)
 [![Pi](https://invidget.switchblade.xyz/RUsRK82D)](https://discord.gg/RUsRK82D)
-
+[![RWKV LLM](https://invidget.switchblade.xyz/PH6pkDD3)](https://discord.gg/PH6pkDD3)
 [![Singularity Lab](https://invidget.switchblade.xyz/jc4xtF58Ve)](https://discord.gg/jc4xtF58Ve)
 
 [![Singularity Lab](https://invidget.switchblade.xyz/8MtgXxP5)](https://discord.gg/8MtgXxP5)
@@ -18,7 +18,7 @@
 
 
 
-[![Singularity Lab](https://invidget.switchblade.xyz/PH6pkDD3)](https://discord.gg/PH6pkDD3)
+
 
 [![Singularity Lab](https://invidget.switchblade.xyz/6A6BDm4a)](https://discord.gg/6A6BDm4a)
 
