@@ -21,5 +21,6 @@
 [![GPT God](https://invidget.switchblade.xyz/6A6BDm4a)](https://discord.gg/6A6BDm4a)
 [![Opus](https://invidget.switchblade.xyz/McEyvETc)](https://discord.gg/McEyvETc)
 [![Socra](https://invidget.switchblade.xyz/PH6pkDD3)](https://discord.gg/PH6pkDD3)
+[![Glasp](https://invidget.switchblade.xyz/GRbFsGwTNN)](https://discord.com/invite/GRbFsGwTNN)
 [![Singularity Lab](https://invidget.switchblade.xyz/jc4xtF58Ve)](https://discord.gg/jc4xtF58Ve)
 
