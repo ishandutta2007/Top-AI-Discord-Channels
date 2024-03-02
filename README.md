@@ -19,6 +19,7 @@
 [![Harpy Chat ai](https://invidget.switchblade.xyz/EcNSKX4qMQ)](https://discord.gg/EcNSKX4qMQ)
 [![Glarity](https://invidget.switchblade.xyz/nxrQzfvX)](https://discord.gg/nxrQzfvX)
 [![GPT God](https://invidget.switchblade.xyz/6A6BDm4a)](https://discord.gg/6A6BDm4a)
+[![NowAI](https://invidget.switchblade.xyz/nowai)](https://discord.gg/nowai)
 [![Opus](https://invidget.switchblade.xyz/McEyvETc)](https://discord.gg/McEyvETc)
 [![Socra](https://invidget.switchblade.xyz/PH6pkDD3)](https://discord.gg/PH6pkDD3)
 [![Glasp](https://invidget.switchblade.xyz/GRbFsGwTNN)](https://discord.com/invite/GRbFsGwTNN)
