@@ -24,6 +24,7 @@
 [![AI Connect Network](https://invidget.switchblade.xyz/cMFS5ZZXj8)](https://discord.gg/cMFS5ZZXj8)
 [![NowAI](https://invidget.switchblade.xyz/nowai)](https://discord.gg/nowai)
 [![Opus](https://invidget.switchblade.xyz/McEyvETc)](https://discord.gg/McEyvETc)
+[![Free AI](https://invidget.switchblade.xyz/t9fKYUpjAh)](https://discord.gg/t9fKYUpjAh)
 [![Xplanet.AI](https://invidget.switchblade.xyz/PsSUKeURRn)](https://discord.gg/PsSUKeURRn)
 [![Socra](https://invidget.switchblade.xyz/PH6pkDD3)](https://discord.gg/PH6pkDD3)
 [![Glasp](https://invidget.switchblade.xyz/GRbFsGwTNN)](https://discord.com/invite/GRbFsGwTNN)
