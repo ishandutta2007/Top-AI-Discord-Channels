@@ -22,6 +22,7 @@
 [![Coqui](https://invidget.switchblade.xyz/G5dxVH9Kdp)](https://discord.gg/G5dxVH9Kdp)
 [![Replika ai](https://invidget.switchblade.xyz/MzV2Jr9uhD)](https://discord.gg/MzV2Jr9uhD)
 [![Harpy Chat ai](https://invidget.switchblade.xyz/EcNSKX4qMQ)](https://discord.gg/EcNSKX4qMQ)
+[![r-singularity](https://invidget.switchblade.xyz/official-r-singularity-discord-server-1057701239426646026)](https://discord.gg/official-r-singularity-discord-server-1057701239426646026)
 [![Glarity](https://invidget.switchblade.xyz/nxrQzfvX)](https://discord.gg/nxrQzfvX)
 [![GPT God](https://invidget.switchblade.xyz/6A6BDm4a)](https://discord.gg/6A6BDm4a)
 [![Dream Diffusion](https://invidget.switchblade.xyz/2m7tRQpDja)](https://discord.gg/2m7tRQpDja)
