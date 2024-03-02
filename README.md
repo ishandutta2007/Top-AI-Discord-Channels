@@ -1,5 +1,6 @@
 [![midjourney](https://invidget.switchblade.xyz/midjourney)](https://discord.gg/midjourney)
-[![bluewillow](https://invidget.switchblade.xyz/bluewillow)](https://discord.gg/bluewillow)
+[![LimeWire](https://invidget.switchblade.xyz/bluewillow)](https://discord.gg/bluewillow)
+[![leonardo-ai](https://invidget.switchblade.xyz/leonardo-ai)](https://discord.gg/leonardo-ai)
 [![Firefly](https://invidget.switchblade.xyz/YJE3z8bK)](https://discord.gg/YJE3z8bK)
 [![Character ai](https://invidget.switchblade.xyz/characterai)](https://discord.gg/characterai)
 [![Playground](https://invidget.switchblade.xyz/63XZsH2Y)](https://discord.gg/63XZsH2Y)
