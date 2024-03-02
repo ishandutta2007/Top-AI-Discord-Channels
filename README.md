@@ -11,6 +11,7 @@
 [![FlowGPT](https://invidget.switchblade.xyz/flowgpt)](https://discord.gg/flowgpt)
 [![Poe](https://invidget.switchblade.xyz/8Jq45eBH)](https://discord.gg/8Jq45eBH)
 [![WebCHATGPT](https://invidget.switchblade.xyz/JKpfRTEZ)](https://discord.gg/JKpfRTEZ)
+[![Fantasy: AI Art Generator, Anime AI](https://invidget.switchblade.xyz/jtCJD7S8bU)](https://discord.gg/jtCJD7S8bU)
 [![Pi](https://invidget.switchblade.xyz/RUsRK82D)](https://discord.gg/RUsRK82D)
 [![RWKV LM](https://invidget.switchblade.xyz/TpzqfSNfc2)](https://discord.gg/TpzqfSNfc2)
 [![Mem GPT](https://invidget.switchblade.xyz/8MtgXxP5)](https://discord.gg/8MtgXxP5)
