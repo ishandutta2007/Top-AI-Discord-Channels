@@ -8,6 +8,7 @@
 [![Janitor ai](https://invidget.switchblade.xyz/janitorai)](https://discord.gg/janitorai)
 [![openai](https://invidget.switchblade.xyz/openai)](https://discord.gg/openai)
 [![HuggingFace](https://invidget.switchblade.xyz/hugging-face-879548962464493619)](https://discord.gg/hugging-face-879548962464493619)
+[![learnaitogether](https://invidget.switchblade.xyz/learnaitogether)](https://discord.gg/learnaitogether)
 [![AutoGPT](https://invidget.switchblade.xyz/autogpt)](https://discord.gg/autogpt)
 [![FlowGPT](https://invidget.switchblade.xyz/flowgpt)](https://discord.gg/flowgpt)
 [![Poe](https://invidget.switchblade.xyz/8Jq45eBH)](https://discord.gg/8Jq45eBH)
