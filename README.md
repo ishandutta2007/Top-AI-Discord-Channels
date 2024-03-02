@@ -22,6 +22,7 @@
 [![GPT God](https://invidget.switchblade.xyz/6A6BDm4a)](https://discord.gg/6A6BDm4a)
 [![NowAI](https://invidget.switchblade.xyz/nowai)](https://discord.gg/nowai)
 [![Opus](https://invidget.switchblade.xyz/McEyvETc)](https://discord.gg/McEyvETc)
+[![Xplanet.AI](https://invidget.switchblade.xyz/PsSUKeURRn)](https://discord.gg/PsSUKeURRn)
 [![Socra](https://invidget.switchblade.xyz/PH6pkDD3)](https://discord.gg/PH6pkDD3)
 [![Glasp](https://invidget.switchblade.xyz/GRbFsGwTNN)](https://discord.com/invite/GRbFsGwTNN)
 [![Singularity Lab](https://invidget.switchblade.xyz/jc4xtF58Ve)](https://discord.gg/jc4xtF58Ve)
