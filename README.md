@@ -21,6 +21,7 @@
 [![Glarity](https://invidget.switchblade.xyz/nxrQzfvX)](https://discord.gg/nxrQzfvX)
 [![GPT God](https://invidget.switchblade.xyz/6A6BDm4a)](https://discord.gg/6A6BDm4a)
 [![Dream Diffusion](https://invidget.switchblade.xyz/2m7tRQpDja)](https://discord.gg/2m7tRQpDja)
+[![AI Connect Network](https://invidget.switchblade.xyz/cMFS5ZZXj8)](https://discord.gg/cMFS5ZZXj8)
 [![NowAI](https://invidget.switchblade.xyz/nowai)](https://discord.gg/nowai)
 [![Opus](https://invidget.switchblade.xyz/McEyvETc)](https://discord.gg/McEyvETc)
 [![Xplanet.AI](https://invidget.switchblade.xyz/PsSUKeURRn)](https://discord.gg/PsSUKeURRn)
