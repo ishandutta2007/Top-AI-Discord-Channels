@@ -34,4 +34,6 @@
 [![Socra](https://invidget.switchblade.xyz/UCVrCxpYNm)](https://discord.gg/UCVrCxpYNm)
 [![Glasp](https://invidget.switchblade.xyz/GRbFsGwTNN)](https://discord.com/invite/GRbFsGwTNN)
 [![Singularity Lab](https://invidget.switchblade.xyz/jc4xtF58Ve)](https://discord.gg/jc4xtF58Ve)
+[![Sora AI(unofficial)](https://invidget.switchblade.xyz/g3vMjaQS9j)](https://discord.gg/g3vMjaQS9j)
+
 
